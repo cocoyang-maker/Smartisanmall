@@ -1,0 +1,13 @@
+.cart{border: 1px solid rgb(199, 197, 197);border-radius: 10px;width: 1220px;
+margin: 20px auto;}
+.cart>.table>caption{font: bold 30px/50px "";padding-left: 20px;border-bottom: solid 1px rgb(199, 197, 197);}
+.choices{display: flex;justify-content:space-between;border-top:rgb(199, 197, 197) 1px solid;}
+.choices>.total-area{display: flex;}
+.choices>.choice>input{margin-top: 30px;margin-left: 20px;}
+.choices>.choice>span{margin-left: 20px;}
+
+.choices>.total-area>div,p{margin-right: 20px;}
+.choices>.total-area>div{margin-top: 20px;}
+.choices>.total-area>div>p{text-align: center;}
+.choices>.total-area>p{margin-top: 30px;}
+.choices>.total-area>button{margin: 20px 20px;}
